@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Divhani97
-- 👀 I’m interested in Web developmet(HTML,CSS,PHP),java programming, and C#
-- 🌱 I’m currently learning android development, Advanced database, and information security
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Backend development
+- 🌱 I’m currently a software developer @ S-Squared
+- 💞️ I’m looking to collaborate on ...cool stuff
 - 📫 How to reach me :nthangenidrd@gmail.com
 
 <!---
